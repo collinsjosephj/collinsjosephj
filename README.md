@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Joseph Collins, however, I prefer Jessy. I was a big fan of Free Willy as a kid. 
+- 👋 Hi, I prefer Jessy. I was a big fan of Free Willy as a kid. 
 - 👀 I’m interested in travel. Mostly. But I also enjoy meandering the beautiful PNW with my beloved husky, Statia. 
-- 🌱 I’m currently learning all there is to know about code! I came from an accounting background, and I have experience in the service industry & construction, so I really relish the ability to be creative with what I do.
-- 💞️ I’m looking to collaborate on anything and everything. Reach out to me if you have any budding ideas!
-- 📫 How to reach me: email is a great outlet for me, or reachout to me on my social media links. 
+- 🌱 I’m currently learning the MERN stack.
+- 💞️ I’m looking to collaborate on anything and everything. 
 - ⚡ Fun fact: I was born in Makati, Manila, and I have lived in Hawaii, Oregon, and the Philippines.
 - Mahalo!
 
